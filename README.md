@@ -17,4 +17,6 @@ The inital inventory of 20% of the SKUs do not cover the lead time due to unders
 DATASET DESCRIPTION
 - Source: Kaggle. I simulated missing data that was required for the project, such as: Lead time and Initial inventory
 - Size: 1000 rows, 7 columns
-- Note: Seasonality was not considered.
+- Note: Seasonality was not considered in this project. 
+<img width="598" height="456" alt="image" src="https://github.com/user-attachments/assets/b4d4391e-b5e9-47ff-88c2-e6a97ae9fd6f" />
+
