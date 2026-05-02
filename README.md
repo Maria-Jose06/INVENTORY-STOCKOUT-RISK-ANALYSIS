@@ -14,10 +14,12 @@ The inital inventory of 20% of the SKUs do not cover the lead time due to unders
 
 - Some project pictures:
 
-Python calcculations:
+Python calculations:
+
 <img width="1094" height="592" alt="image" src="https://github.com/user-attachments/assets/a61168f1-a289-4c06-9183-c0344fa8c6e8" />
 
 MySQL data consulting:
+
 <img width="598" height="469" alt="image" src="https://github.com/user-attachments/assets/94de9ec9-fd84-473c-b593-4e5215c6d43e" />
 
 
