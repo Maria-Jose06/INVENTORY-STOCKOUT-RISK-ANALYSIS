@@ -1,4 +1,6 @@
 # INVENTORY-STOCKOUT-RISK-ANALYSIS
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
+
 End-to end inventory stockout risk analysis using MySql, Python, Excel and Power BI. This project is focused on identifying supply chain inefficiencies by analysing the different key metric to detect the high-risk SKUs. I also created a dashboard to facilitate the decision-taking and actions ahead to reduce possible future stockouts. 
 
 BUSINESS PROBLEM
